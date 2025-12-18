@@ -1,44 +1,19 @@
-# Hi, I'm Vinay Oppuri
+## Hey there! 👋
 
-Welcome to my GitHub! I'm a **Computer Science Engineering student** passionate about **full-stack development, agentic ai, and building performant web applications**.
+**I'm <u>Vinay</u>**, a computer science engineering student and developer based in India.
 
+I build web applications, experiment with AI, and enjoy turning ideas into working products.
 
-## About Me
+If something sparks my curiosity, I usually try to build it and ship it.
 
-- Currently pursuing CS Engineering from **IIIT Raichur**
-- Developer focused on modern web technologies like **Next.js, React, Node.js**
-- Exploring **Machine Learning & Deep Learning**
-- Building projects that solve real problems and improve user experiences
-- Always learning and experimenting with new tech
+My main tech stack includes **Next.js, React, TypeScript, Tailwind CSS, Node.js**, and I'm actively exploring **Machine Learning and Agentic AI**.
 
+I've built multiple public projects, ranging from full-stack web apps to AI-driven systems. Most of my learning comes from building things end-to-end.
 
-## Technologies I Use
+If you want to see what I’m working on, check out my pinned repositories or my <u>[portfolio](https://vinay-oppuri.vercel.app/)</u>.
 
-**Frontend:**  
-React, Next.js, Tailwind CSS, HTML, CSS, TypeScript, Shadcn
-
-**Backend:**  
-Node.js, Express, Inngest
-
-**Tools:**  
-Git, GitHub, Docker, VS Code
-
----
-
-## Featured Projects
-
-Here are a few things I’ve built — check out my repositories below!
-
-<!-- You can manually list some of your pinned projects or replace with actual ones -->
-- **Project A** – Short description of what it does  
-- **Project B** – Another cool project  
-
----
-
-## Connect With Me
-
-- Portfolio: https://vinay-oppuri.vercel.app/
-- Email: vinay@example.com  
-- LinkedIn: https://linkedin.com/in/vinay-oppuri
-
-Thanks for visiting! 😊
+Fun Facts:
+- I enjoy clean UI and smooth animations  
+- I like building systems more than tutorials  
+- Currently focused on leveling up DSA + AI  
+- Interests: web, AI agents, performance optimization
